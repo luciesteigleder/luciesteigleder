@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello, I'm Lucie! 👋
 
 Welcome to my GitHub repository! As a **full-stack developer** with previous experience in science, science communication, and project management, I bring a versatile skill set to the table. 
 
