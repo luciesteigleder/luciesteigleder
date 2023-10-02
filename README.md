@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello! 👋
 
+Welcome to my GitHub repository! As a **full-stack developer** with previous experience in science, science communication, and project management, I bring a versatile skill set to the table. 
+
+With a keen eye for detail and a passion for problem-solving, I am always ready to take on new challenges. This repository showcases my projects, demonstrating my proficiency in various web development technologies and frameworks.
+
+Feel free to explore the different projects and see how I have applied my skills to create innovative and efficient solutions. Whether it's front-end development, back-end development, or full-stack applications, I am dedicated to delivering high-quality code and exceptional user experiences.
+
+I am constantly learning and seeking new opportunities to expand my knowledge and expertise. Collaborations and feedback are always welcome, so don't hesitate to reach out and connect with me.
+
+Thank you for visiting my GitHub repository, and I look forward to sharing my journey as a web developer with you!
 <!--
 **luciesteigleder/luciesteigleder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
