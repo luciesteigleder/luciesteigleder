@@ -1,15 +1,11 @@
 ### Hello, I'm Lucie! 👋
 
-Welcome to my GitHub repository! As a **full-stack developer** with previous experience in science, science communication, and project management, I bring a versatile skill set to the table. 
+Welcome to my GitHub repository! 
+I'm a **full-stack developer** with experience in science, science communication, and project management. 
+Here, you'll find my projects showcasing my proficiency in web development. Feel free to explore and see how I create innovative and efficient solutions! 
+I'm dedicated to delivering high-quality code and exceptional user experiences. I'm always learning and open to collaborations and feedback. 
 
-With a keen eye for detail and a passion for problem-solving, I am always ready to take on new challenges. This repository showcases my projects, demonstrating my proficiency in various web development technologies and frameworks.
-
-Feel free to explore the different projects and see how I have applied my skills to create innovative and efficient solutions. Whether it's front-end development, back-end development, or full-stack applications, I am dedicated to delivering high-quality code and exceptional user experiences.
-
-I am constantly learning and seeking new opportunities to expand my knowledge and expertise. Collaborations and feedback are always welcome, so don't hesitate to reach out and connect with me.
-
-Thank you for visiting my GitHub repository, and I look forward to sharing my journey as a web developer with you!
-
+Thank you for visiting, and I look forward to sharing my web development journey with you!
 ## Technical skills ⚙️
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,5 +41,6 @@ Thank you for visiting my GitHub repository, and I look forward to sharing my jo
 ### Project Management
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-- ⚡ Fun fact: ...
--->
+## How to reach me 🙋
+
+[LinkedIn](https://www.linkedin.com/in/lucie-steigleder/)
