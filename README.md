@@ -1,7 +1,7 @@
 ### Hello, I'm Lucie! 👋
 
 Welcome to my GitHub repository! 
-I'm a **full-stack developer** with experience in science, science communication, and project management. 
+I'm a **full-stack developer** with previous experience in science, science communication, and project management. 
 Here, you'll find my projects showcasing my proficiency in web development. Feel free to explore and see how I create innovative and efficient solutions! 
 I'm dedicated to delivering high-quality code and exceptional user experiences. I'm always learning and open to collaborations and feedback. 
 
