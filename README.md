@@ -23,3 +23,6 @@ Thank you for visiting, and I look forward to sharing my web development journey
 ## How to reach me 🙋
 
 [LinkedIn](https://www.linkedin.com/in/lucie-steigleder/)
+
+
+(This account is currently undergoing cleaning and polishing, so please excuse the clutter.🧽)
