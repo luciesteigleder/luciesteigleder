@@ -6,6 +6,9 @@ Here, you'll find my projects showcasing my proficiency in web development. Feel
 I'm dedicated to delivering high-quality code and exceptional user experiences. I'm always learning and open to collaborations and feedback. 
 
 Thank you for visiting, and I look forward to sharing my web development journey with you!
+
+(This account is currently undergoing cleaning and polishing, so please excuse the clutter.🧽)
+
 ## Technical skills ⚙️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -23,6 +26,3 @@ Thank you for visiting, and I look forward to sharing my web development journey
 ## How to reach me 🙋
 
 [LinkedIn](https://www.linkedin.com/in/lucie-steigleder/)
-
-
-(This account is currently undergoing cleaning and polishing, so please excuse the clutter.🧽)
